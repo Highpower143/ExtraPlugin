@@ -123,7 +123,7 @@ async def greet_group(_, member: ChatMemberUpdated):
 ● ᴜsᴇʀɴᴀᴍᴇ ➥  @{user.username}
 ● ᴜsᴇʀ ɪᴅ ➥  {user.id}
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ˹NY Cʀᴇᴀᴛɪᴏɴ˼ ♡゙
+❖ <blockquote><b>❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ <a href=https://t.me/M4_Music_BoT?start=help>Mᴜsɪᴄ's Lᴏᴠᴇ💕😘</a></b></blockquote> ♡゙
 ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▰
 """,
 reply_markup=InlineKeyboardMarkup(
